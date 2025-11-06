@@ -22,7 +22,7 @@ Especialista en proyectos Salesforce, integración de APIs y desarrollo con Apex
 
 <div align="center">
 
-| Salesforce Certified Administrator | CS50 Certified |
+| Salesforce Platform Administrator | CS50 Certified |
 | :---: | :---: |
 | <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAGlB&oid=00DF0000000gZsu&lastMod=17467806380000" width="50" height="50" /> | <img src="https://tse3.mm.bing.net/th/id/OIP.6rwIg0G17RXjPZyn-ZIk0QHaEc?rs=1&pid=ImgDetMain&o=7&rm=3" width="50" height="50" /> |
 
