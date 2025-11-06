@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html lang="es">
-
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Perfil Profesional - Oscar García</title>
     <style>
         :root {
@@ -138,16 +132,12 @@
                 text-decoration: underline;
             }
         </style>
-</head>
-
-<body>
-    <header>
+        
         <img src="https://avatars.githubusercontent.com/u/90071190?v=4" alt="Foto de perfil" />
         <h1>Oscar García</h1>
         <p>Administrador Certificado de Salesforce | Desarrollador en Sistemática Internacional</p>
         <p>Especialista en proyectos Salesforce, integración de APIs y desarrollo con Apex. Actualmente estudiando para
             obtener las certificaciones Platform App Builder y Salesforce Developer.</p>
-    </header>
 
     <section>
         <h2>Tecnologías que manejo</h2>
@@ -212,6 +202,3 @@
         <p>© 2025 Oscar García | <a href="https://github.com/Oscaregg">GitHub</a> | <a
                 href="https://www.salesforce.com/trailblazer/ob3m0p1uue8op5nfas">Trailhead</a></p>
     </footer>
-</body>
-
-</html>
